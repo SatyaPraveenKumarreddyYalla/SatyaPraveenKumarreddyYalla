@@ -2,6 +2,8 @@
 
 Hi! I'm **Satya Praveen Kumareddy Yalla**, a passionate **Data Science & Analytics Professional** with expertise in machine learning, data analysis, and business intelligence.
 
+![Profile Views](https://komarev.com/ghpvc/?username=SatyaPraveenKumarreddyYalla&color=blue)
+
 ---
 
 ## 🎯 About Me
@@ -11,6 +13,7 @@ Hi! I'm **Satya Praveen Kumareddy Yalla**, a passionate **Data Science & Analyti
 - 💼 Experience with **Supervised/Unsupervised Learning**, **Statistical Analysis**, and **Dashboard Development**
 - 🚀 Passionate about turning raw data into actionable insights
 - 🌱 Continuously learning and exploring new technologies in AI/ML
+- 🎨 Creative professional with a blend of technical expertise and analytical thinking
 
 ---
 
@@ -30,6 +33,7 @@ Hi! I'm **Satya Praveen Kumareddy Yalla**, a passionate **Data Science & Analyti
 - 📊 **Business Intelligence & Dashboards**
 - 🔬 **Statistical Analysis & Modeling**
 - 📐 **Data Preprocessing & Cleaning**
+- 🎨 **Data Visualization & Storytelling**
 
 ---
 
@@ -105,6 +109,19 @@ Hi! I'm **Satya Praveen Kumareddy Yalla**, a passionate **Data Science & Analyti
 - ✅ Statistical Modeling
 - ✅ Predictive Analytics
 - ✅ Data Visualization & Storytelling
+- ✅ Continuous Learning & Innovation
+
+---
+
+## 🌟 Professional Highlights
+
+| Metric | Count |
+|--------|-------|
+| Public Repositories | 11+ |
+| Languages Used | 3+ |
+| ML Projects | 8+ |
+| Dashboard Projects | 2+ |
+| Average Model Accuracy | 90%+ |
 
 ---
 
@@ -112,6 +129,7 @@ Hi! I'm **Satya Praveen Kumareddy Yalla**, a passionate **Data Science & Analyti
 
 - 💼 **GitHub**: [@SatyaPraveenKumarreddyYalla](https://github.com/SatyaPraveenKumarreddyYalla)
 - 📧 Feel free to reach out for collaborations or discussions on data science projects
+- 🤝 Open to networking with fellow data science enthusiasts
 
 ---
 
@@ -120,16 +138,26 @@ Hi! I'm **Satya Praveen Kumareddy Yalla**, a passionate **Data Science & Analyti
 - 🤝 Open to collaborations on interesting data science projects
 - 🔍 Always eager to learn and explore new technologies
 - 💬 Happy to discuss ML algorithms, data analysis techniques, and best practices
+- 📊 Interested in challenging data science problems and real-world applications
+
+---
+
+## 🔗 Quick Links
+
+- [My Repositories](https://github.com/SatyaPraveenKumarreddyYalla?tab=repositories)
+- [My Gists](https://gist.github.com/SatyaPraveenKumarreddyYalla)
+- [Follow Me](https://github.com/SatyaPraveenKumarreddyYalla)
 
 ---
 
 ## 📝 Recent Work
 
-All my projects follow best practices, including:
+All my projects follow best practices including:
 - ✨ Clean, well-documented code
 - 📊 Comprehensive EDA and analysis
 - 🎯 Clear problem statements and solutions
 - 📈 Performance metrics and accuracy measurements
+- 🔍 Reproducible results and methodology
 
 ---
 
@@ -138,3 +166,5 @@ All my projects follow best practices, including:
 ---
 
 > *"Data tells stories, and I help bring them to life."* 📊✨
+>
+> *"In data science, curiosity is the best algorithm."* 🤖💡
